@@ -7,7 +7,7 @@
             <span class="text-brand-600 font-bold tracking-wider uppercase text-sm">Tu aliado tecnológico</span>
             <h2 class="mt-4 text-4xl md:text-5xl font-heading font-bold text-gray-900 leading-tight">
                 No dejes que la tecnología <br>
-                <span class="text-transparent bg-clip-text bg-brand-600">frene tu
+                <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-600 to-brand-800">frene tu
                     crecimiento.</span>
             </h2>
             <p class="mt-6 text-xl text-gray-600">
@@ -28,7 +28,7 @@
                     </svg>
                 </div>
                 <div
-                    class="w-14 h-14 bg-blue-100 rounded-xl flex items-center justify-center text-brand-600 mb-6 group-hover:scale-110 transition-transform relative z-10">
+                    class="w-14 h-14 bg-gray-100 rounded-xl flex items-center justify-center text-gray-600 mb-6 group-hover:scale-110 transition-transform group-hover:bg-brand-100 group-hover:text-brand-600 relative z-10">
                     <svg class="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                             d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
@@ -53,7 +53,7 @@
             <div
                 class="group p-8 rounded-2xl bg-cream-50 border border-cream-100 hover:bg-white hover:border-brand-100 hover:shadow-2xl transition-all duration-300">
                 <div
-                    class="w-14 h-14 bg-purple-100 rounded-xl flex items-center justify-center text-purple-600 mb-6 group-hover:scale-110 transition-transform">
+                    class="w-14 h-14 bg-gray-100 rounded-xl flex items-center justify-center text-gray-600 mb-6 group-hover:scale-110 transition-transform group-hover:bg-brand-100 group-hover:text-brand-600">
                     <svg class="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                             d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
@@ -62,7 +62,7 @@
                 <h3 class="text-2xl font-bold text-gray-900 mb-4 font-heading">Modernización de Software</h3>
                 <p class="text-gray-600 mb-6 leading-relaxed">
                     Transformamos sistemas antiguos y lentos en plataformas modernas, rápidas y seguras.
-                </p>    
+                </p>
                 <a href="#" class="inline-flex items-center text-brand-600 font-bold hover:gap-2 transition-all">
                     Renovar mi software <svg class="ml-1 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -75,7 +75,7 @@
             <div
                 class="group p-8 rounded-2xl bg-cream-50 border border-cream-100 hover:bg-white hover:border-brand-100 hover:shadow-2xl transition-all duration-300">
                 <div
-                    class="w-14 h-14 bg-yellow-100 rounded-xl flex items-center justify-center text-yellow-600 mb-6 group-hover:scale-110 transition-transform">
+                    class="w-14 h-14 bg-gray-100 rounded-xl flex items-center justify-center text-gray-600 mb-6 group-hover:scale-110 transition-transform group-hover:bg-brand-100 group-hover:text-brand-600">
                     <svg class="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                             d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z" />
@@ -86,7 +86,8 @@
                     Tu web necesita estar viva. Ofrecemos planes de mantenimiento para corregir errores, actualizar
                     seguridad y agregar nuevas funciones mes a mes.
                 </p>
-                <a href="#" class="inline-flex items-center text-brand-600 font-bold hover:gap-2 transition-all">
+                <a href="#"
+                    class="inline-flex items-center text-brand-600 font-bold hover:text-brand-600 hover:gap-2 transition-all">
                     Ver planes <svg class="ml-1 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                             d="M17 8l4 4m0 0l-4 4m4-4H3"></path>

@@ -59,7 +59,7 @@
                 <div
                     class="relative z-10 bg-white p-6 rounded-2xl border border-gray-100 shadow-sm hover:shadow-lg transition-all text-center group">
                     <div
-                        class="w-16 h-16 mx-auto bg-blue-600 text-white rounded-full flex items-center justify-center text-2xl font-bold mb-4 group-hover:scale-110 transition-transform">
+                        class="w-16 h-16 mx-auto bg-brand-600 text-white rounded-full flex items-center justify-center text-2xl font-bold mb-4 group-hover:scale-110 transition-transform">
                         4</div>
                     <h3 class="font-bold text-gray-900 text-lg mb-2">Soporte 24/7</h3>
                     <p class="text-sm text-gray-600">

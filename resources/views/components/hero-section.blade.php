@@ -22,7 +22,7 @@
         <h1
             class="text-5xl md:text-7xl font-heading font-extrabold text-gray-900 tracking-tight leading-tight mb-8 animate-fade-in-up animation-delay-100">
             Creamos experiencias <br>
-            <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-600 to-violet-600">Digitales que
+            <span class="text-transparent bg-clip-text bg-brand-600">Digitales que
                 Impactan.</span>
         </h1>
 
@@ -218,7 +218,7 @@
         <div
             class="absolute -right-8 top-26 bg-white/95 backdrop-blur-xl p-4 rounded-xl shadow-2xl border border-gray-100 animate-float">
             <div class="flex items-center gap-3">
-                <div class="w-10 h-10 bg-green-100 rounded-full flex items-center justify-center text-green-600">
+                <div class="w-10 h-10 bg-brand-600 rounded-full flex items-center justify-center text-white">
                     <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                             d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />

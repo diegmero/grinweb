@@ -9,14 +9,22 @@
     --font-sans: 'Instrument Sans', sans-serif;
     --font-heading: 'Plus Jakarta Sans', sans-serif;
 
+    /* Warm Corporate Palette */
     --color-cream-50: #FFFAF5;
     --color-cream-100: #FFF5E9;
     --color-cream-200: #FFEBD6;
 
-    --color-brand-400: #60a5fa;
-    --color-brand-500: #3b82f6;
-    --color-brand-600: #2563eb;
-    --color-brand-900: #1e3a8a;
+    /* Brand Green Palette (Tech & Growth) */
+    --color-brand-50: #f0fdf4;
+    --color-brand-100: #dcfce7;
+    --color-brand-200: #bbf7d0;
+    --color-brand-300: #86efac;
+    --color-brand-400: #4ade80;
+    --color-brand-500: #22c55e;
+    --color-brand-600: #16a34a;
+    --color-brand-700: #15803d;
+    --color-brand-800: #166534;
+    --color-brand-900: #14532d;
 
     --animate-float: float 6s ease-in-out infinite;
     --animate-fade-in-up: fadeInUp 0.8s ease-out forwards;

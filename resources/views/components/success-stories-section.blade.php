@@ -11,8 +11,7 @@
                 <span class="text-brand-600 font-bold tracking-wider uppercase text-sm">Resultados Tangibles</span>
                 <h2 class="mt-4 text-4xl md:text-5xl font-heading font-bold text-gray-900 leading-tight">
                     No prometemos, <br>
-                    <span class="text-transparent bg-clip-text bg-brand-600">demostramos
-                        resultados.</span>
+                    <span class="text-transparent bg-clip-text bg-brand-600">demostramos resultados.</span>
                 </h2>
             </div>
             <div class="mb-2">
@@ -88,7 +87,7 @@
                     </div>
                     <div class="relative z-10">
                         <div
-                            class="w-12 h-12 bg-white rounded-xl shadow-sm flex items-center justify-center text-brand-600 font-bold text-xl mb-4">
+                            class="w-8 h-8 bg-white rounded-xl shadow-sm flex items-center justify-center text-brand-600 font-bold text-xl mb-4">
                             <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                     d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
@@ -99,8 +98,8 @@
                             Implementación de arquitectura Zero-Trust. Pasaron auditoría bancaria en tiempo récord.
                         </p>
                         <div
-                            class="inline-flex items-center gap-2 text-brand-700 font-bold bg-brand-50 px-3 py-1 rounded-lg text-sm">
-                            <span class="w-2 h-2 rounded-full bg-green-500 animate-pulse"></span>
+                            class="inline-flex items-center gap-2 text-white font-bold bg-brand-600 px-3 py-1 rounded-lg text-sm">
+                            <span class="w-2 h-2 rounded-full bg-white animate-pulse"></span>
                             Cumplimiento 100%
                         </div>
                     </div>
