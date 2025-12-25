@@ -33,6 +33,15 @@
     <!-- Features Split Section -->
     <x-features-section />
 
+    <!-- Process Section -->
+    <x-process-section />
+
+    <!-- Security Section -->
+    <x-security-section />
+
+    <!-- Success Stories Section -->
+    <x-success-stories-section />
+
     <!-- CTA Section -->
     <x-cta-section />
 
@@ -134,12 +143,16 @@
         @keyframes alive-pulse {
             0% {
                 box-shadow: 0 0 0 0px rgba(74, 222, 128, 0.05);
-                border-color: rgba(31, 41, 55, 1); /* gray-800 */
+                border-color: rgba(31, 41, 55, 1);
+                /* gray-800 */
             }
+
             50% {
                 box-shadow: 0 10px 30px -5px rgba(74, 222, 128, 0.15);
-                border-color: rgba(74, 222, 128, 0.4); /* green-400 equivalent */
+                border-color: rgba(74, 222, 128, 0.4);
+                /* green-400 equivalent */
             }
+
             100% {
                 box-shadow: 0 0 0 0px rgba(74, 222, 128, 0.05);
                 border-color: rgba(31, 41, 55, 1);
@@ -156,12 +169,15 @@
                 top: 0%;
                 opacity: 0;
             }
+
             15% {
                 opacity: 1;
             }
+
             85% {
                 opacity: 1;
             }
+
             100% {
                 top: 100%;
                 opacity: 0;
@@ -170,9 +186,12 @@
 
         .animate-scan {
             animation: scan 3s linear infinite;
-            background: linear-gradient(to bottom, transparent, rgba(74, 222, 128, 0.2), transparent); /* Green tint */
-            height: 20px; /* Thicker scan line */
-            filter: blur(4px); /* Blur effect requested */
+            background: linear-gradient(to bottom, transparent, rgba(74, 222, 128, 0.2), transparent);
+            /* Green tint */
+            height: 20px;
+            /* Thicker scan line */
+            filter: blur(4px);
+            /* Blur effect requested */
         }
     </style>
 </body>

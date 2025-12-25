@@ -7,7 +7,7 @@
             <span class="text-brand-600 font-bold tracking-wider uppercase text-sm">Tu aliado tecnológico</span>
             <h2 class="mt-4 text-4xl md:text-5xl font-heading font-bold text-gray-900 leading-tight">
                 No dejes que la tecnología <br>
-                <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-600 to-violet-600">frene tu
+                <span class="text-transparent bg-clip-text bg-brand-600">frene tu
                     crecimiento.</span>
             </h2>
             <p class="mt-6 text-xl text-gray-600">
@@ -62,8 +62,8 @@
                 <h3 class="text-2xl font-bold text-gray-900 mb-4 font-heading">Modernización de Software</h3>
                 <p class="text-gray-600 mb-6 leading-relaxed">
                     Transformamos sistemas antiguos y lentos en plataformas modernas, rápidas y seguras.
-                </p>
-                <a href="#" class="inline-flex items-center text-purple-600 font-bold hover:gap-2 transition-all">
+                </p>    
+                <a href="#" class="inline-flex items-center text-brand-600 font-bold hover:gap-2 transition-all">
                     Renovar mi software <svg class="ml-1 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                             d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
@@ -86,7 +86,7 @@
                     Tu web necesita estar viva. Ofrecemos planes de mantenimiento para corregir errores, actualizar
                     seguridad y agregar nuevas funciones mes a mes.
                 </p>
-                <a href="#" class="inline-flex items-center text-yellow-600 font-bold hover:gap-2 transition-all">
+                <a href="#" class="inline-flex items-center text-brand-600 font-bold hover:gap-2 transition-all">
                     Ver planes <svg class="ml-1 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                             d="M17 8l4 4m0 0l-4 4m4-4H3"></path>
