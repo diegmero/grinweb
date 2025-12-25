@@ -6,20 +6,53 @@
 @source '../**/*.js';
 
 @theme {
-    --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
-        'Segoe UI Symbol', 'Noto Color Emoji';
+    --font-sans: 'Instrument Sans', sans-serif;
     --font-heading: 'Plus Jakarta Sans', sans-serif;
 
-    --color-cream: #FFF5E9;
-    --color-cream-50: #fffaf5;
-    --color-cream-100: #fff5e9;
-    --color-cream-200: #ffe8cc;
-    --color-cream-300: #ffd199;
-    
-    --color-brand-50: #eff6ff;
-    --color-brand-100: #dbeafe;
+    --color-cream-50: #FFFAF5;
+    --color-cream-100: #FFF5E9;
+    --color-cream-200: #FFEBD6;
+
+    --color-brand-400: #60a5fa;
     --color-brand-500: #3b82f6;
     --color-brand-600: #2563eb;
-    --color-brand-700: #1d4ed8;
     --color-brand-900: #1e3a8a;
+
+    --animate-float: float 6s ease-in-out infinite;
+    --animate-fade-in-up: fadeInUp 0.8s ease-out forwards;
+    --animate-infinite-scroll: infinite-scroll 40s linear infinite;
+
+    @keyframes float {
+
+        0%,
+        100% {
+            transform: translateY(0);
+        }
+
+        50% {
+            transform: translateY(-20px);
+        }
+    }
+
+    @keyframes fadeInUp {
+        from {
+            opacity: 0;
+            transform: translateY(20px);
+        }
+
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    @keyframes infinite-scroll {
+        from {
+            transform: translateX(0);
+        }
+
+        to {
+            transform: translateX(-50%);
+        }
+    }
 }

@@ -333,12 +333,15 @@
                     </div>
                     <div>
                         <p class="text-xs text-gray-400 font-semibold uppercase">Soporte TI</p>
-                        <p class="text-sm font-mono text-white">24/7</p>
+        <p class="text-sm font-mono text-white">24/7</p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+
+    <!-- Technologies Section -->
+    <x-tech-carousel />
 
     <!-- Scripts requirement notification -->
     <!-- AlpineJS is included via app.js if Livewire/Filament is installed, but for Guest layout we might need to ensure it's loaded. 
